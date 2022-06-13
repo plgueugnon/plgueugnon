@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a student at 42 Paris and an IT lawyer 
+I am a student at 42 Paris and an IT lawyer
+
+[![pgueugno's 42 stats](https://badge42.vercel.app/api/v2/cl4cqx7ks006409jn1s8sg534/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 ### Here are some of my projects :eyes: :
 - [x] [cub3d](https://github.com/plgueugnon/cub3D) : a small 3d game using Raycasting like Wolfenstein 3D
