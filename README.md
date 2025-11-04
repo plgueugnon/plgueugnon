@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--START_BADGES:badges-->
-<!--END_BADGES:badges-->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **plgueugnon/plgueugnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
