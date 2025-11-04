@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/655e5b3c-0db8-4cca-8604-8964c0bfbff7" title="42 Cursus - Computer Architect - Level 21"><img src="https://images.credly.com/size/80x80/images/9d64643e-62d5-4a84-abe7-82fca9255b94/image.png" alt="42 Cursus - Computer Architect - Level 21" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/6a8ac21a-20f7-45ef-bdf8-a4fca467ad6b" title="RNCP Niveau 7 - Expert en Architecture Informatique - Architecture des systèmes d’information réseaux"><img src="https://images.credly.com/size/80x80/images/fd0ea755-3eb2-4d46-9511-2ae54e614818/image.png" alt="RNCP Niveau 7 - Expert en Architecture Informatique - Architecture des systèmes d’information réseaux" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <!--
