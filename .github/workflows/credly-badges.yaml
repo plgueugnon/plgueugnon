@@ -20,3 +20,4 @@ jobs:
         with:
           CREDLY_USER: pierre-louis-gueugnon
           COMMIT_MESSAGE: "Update Credly badges!"
+          REPOSITORY: plgueugnon/plgueugnon
