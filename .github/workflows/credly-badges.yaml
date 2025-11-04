@@ -1,8 +1,11 @@
 name: "Credly Badges"
 
+#on:
+#  schedule:
+#    - cron: "0 0 2 * *"
+
 on:
-  schedule:
-    - cron: "0 0 2 * *"
+  push:
 
 jobs:
   credly-badges:
