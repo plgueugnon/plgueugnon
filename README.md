@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![pgueugno's 42 stats](https://badge42.vercel.app/api/v2/cl4cqx7ks006409jn1s8sg534/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
-
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
 
 <!--
 **plgueugnon/plgueugnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
