@@ -11,11 +11,12 @@ jobs:
   credly-badges:
     name: "Update README with Credly badges"
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
 
     steps:
-      - name: Update
-        uses: mikejoh/credly-badges@main
+      - name: Update badges
+        uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USERNAME: pierre-louis-gueugnon
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CREDLY_USER: pierre-louis-gueugnon
           COMMIT_MESSAGE: "Update Credly badges!"
